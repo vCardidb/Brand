@@ -1,12 +1,13 @@
 BEGIN:VCARD
-VERSION:3.0
+VERSION:4.0
 N:Brand;Marcus;;;
 FN:Marcus Brand
 ORG:IDENTBASE
 TITLE:Managing Director Europe
-TEL;TYPE=WORK,VOICE:+49 5931 99891311
-TEL;TYPE=CELL:+49 151 14954302
-EMAIL;TYPE=INTERNET:Brand@identbase.de
-ADR;TYPE=WORK:;;Dieselstraße 26;Meppen;;49716;Germany
+TEL;TYPE=work,voice;VALUE=uri:tel:+49593199891311
+TEL;TYPE=cell,voice;VALUE=uri:tel:+4915114954302
+EMAIL;TYPE=work:brand@identbase.de
+ADR;TYPE=work:;;Dieselstraße 26;Meppen;;49716;Germany
 URL:https://www.identbase.de
+NOTE:IDENTBASE • a Levata company
 END:VCARD
